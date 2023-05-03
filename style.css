@@ -1,0 +1,4 @@
+.widefat th.sortable, .widefat th.sorted{
+    padding: 8px 10px;
+    background-color: lightgray;
+}
