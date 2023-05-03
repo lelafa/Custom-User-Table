@@ -79,7 +79,7 @@ function users_sort_get_users() {
                 ),
             ),
             'orderby' => 'meta_value',
-            'meta_key' => 'last_name',
+            'meta_key' => 'first_name',
             'order' => $order,
             'number' => $users_per_page,
             'offset' => $offset,
